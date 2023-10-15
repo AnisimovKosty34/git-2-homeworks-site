@@ -5,4 +5,4 @@
  
  Учусь на курсе FPY-93 Fullstack-разработчик на Python
 
- ![](/image.JPG)
+ ![](image.JPG)
